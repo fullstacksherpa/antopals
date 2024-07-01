@@ -1,4 +1,4 @@
-import {Icons} from "@/components/Icons";
+
 import MaxWidthWrapper from "@/components/MaxWidthWrapper";
 import Phone from "@/components/Phone";
 import {Reviews} from "@/components/Reviews";
